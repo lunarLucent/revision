@@ -1,0 +1,23 @@
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\bin\Debug\clients.exe
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\bin\Debug\clients.pdb
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\bin\Debug\clients.xml
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\clients.clients.resources
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\clients.Resources.resources
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\clients.exe
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\clients.xml
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\MS FullAnswer\vb net\clients\clients\clients\obj\x86\Debug\clients.pdb
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.exe
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.xml
+C:\Documents and Settings\user\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.pdb
+C:\Documents and Settings\gjones\Desktop\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.exe
+C:\Documents and Settings\gjones\Desktop\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.xml
+C:\Documents and Settings\gjones\Desktop\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.pdb
+C:\Users\Administrator\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.exe
+C:\Users\Administrator\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.xml
+C:\Users\Administrator\Desktop\Unit 2 qB1\CandidatesCD\vb net\clients\clients\clients\obj\x86\Debug\clients.pdb
+C:\Users\j_ger\Desktop\Candidate CD\vb net\clients\clients\clients\obj\x86\Debug\clients.exe
+C:\Users\j_ger\Desktop\Candidate CD\vb net\clients\clients\clients\obj\x86\Debug\clients.xml
+C:\Users\j_ger\Desktop\Candidate CD\vb net\clients\clients\clients\obj\x86\Debug\clients.pdb
